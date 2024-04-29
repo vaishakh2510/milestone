@@ -1,13 +1,13 @@
-package com.example.CustomerServiceJPA;
+package com.example.LoanServiceJPA;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CustomerServiceJpaApplication {
+public class LoanServiceJpaApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CustomerServiceJpaApplication.class, args);
+		SpringApplication.run(LoanServiceJpaApplication.class, args);
 	}
 
 }

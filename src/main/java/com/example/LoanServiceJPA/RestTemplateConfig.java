@@ -1,4 +1,4 @@
-package com.example.CustomerServiceJPA;
+package com.example.LoanServiceJPA;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

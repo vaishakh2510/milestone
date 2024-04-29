@@ -1,4 +1,4 @@
-package com.example.CustomerServiceJPA;
+package com.example.LoanServiceJPA;
 
 import java.util.List;
 import java.util.Optional;

@@ -1,4 +1,4 @@
-package com.example.CustomerServiceJPA;
+package com.example.LoanServiceJPA;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
